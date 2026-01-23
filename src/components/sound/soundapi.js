@@ -8,6 +8,11 @@ export const soundapi = {
         sound: "",
         enlaces: [
             {
+                id: "ppcweb",
+                enlace: "https://pipoca.vercel.app/",
+                text: "Website"
+            },
+            {
                 id: "ppcinst",
                 enlace: "https://www.instagram.com/pipocatunes/",
                 text: "Instagram"

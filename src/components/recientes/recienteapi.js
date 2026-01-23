@@ -5,6 +5,11 @@ export const recentapi = {
         concepto: "Proyecto musical que incorpora inteligencia artificial dentro de un proceso creativo guiado por una búsqueda artística sonora y visual. El proyecto se encuentra actualmente en etapa de desarrollo, previa a su lanzamiento oficial, con planes de publicar EPs y singles a partir de principios de 2026 en plataformas digitales. No se adscribe a un género específico, sino que explora fusiones sonoras abiertas. La idea es compartir el material, observar la respuesta del público y del entorno musical, y permitir que el proyecto se defina y crezca de forma orgánica.",
         enlaces: [
             {
+                id: "ppcweb",
+                enlace: "https://pipoca.vercel.app/",
+                text: "Website"
+            },
+            {
                 id: "ppcinst",
                 enlace: "https://www.instagram.com/pipocatunes/",
                 text: "Instagram"
