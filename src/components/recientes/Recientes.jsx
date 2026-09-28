@@ -1,5 +1,6 @@
 import { createSignal } from "solid-js";
 import { recentapi } from "./recienteapi";
+import { Images } from "../images/Images";
 import styles from "../Components.module.css";
 
 export const rc = Object.keys(recentapi).length;
@@ -16,19 +17,15 @@ function Recent ({obj}) {
                 <li key={id}><a href={enlace} target="_blank">{text}</a></li>
             ))}
         </ul>
+        {obj.images && (<Images obj={obj}/>)}
     </div>
     )
 }
 
 export function Recientes () {
-    const [showPipoca, setShowPipoca] = createSignal(false);
+    const [showAV8, setShowAV8] = createSignal(false);
     const [showAi, setShowAi] = createSignal(false);
     const [showZhizwha, setShowZhizwha] = createSignal(false);
-    const [showAstronativo, setShowAstronativo] = createSignal(false);
-
-    const open_Pipoca = () => {
-        setShowPipoca(prev => !prev);
-    }
 
     const open_ai = () => {
         setShowAi(prev => !prev);
@@ -38,24 +35,18 @@ export function Recientes () {
         setShowZhizwha(prev => !prev);
     }
 
-    const open_Astronativo = () => {
-        setShowAstronativo(prev => !prev);
+    const open_av8 = () => {
+        setShowAV8(prev => !prev);
     }
 
     return(
         <div class={styles.container}>
             <ul>
-                <li id="pipoca" class={styles.proyecto} onclick={open_Pipoca}>Pipoca <span class={styles.type}>Música</span> / 2026</li>
-                {showPipoca() && (<Recent obj={recentapi.pipoca}/>)}
-
-                <li id="ai" class={styles.proyecto} onclick={open_ai}>AI Generativa <span class={styles.type}>Image y Video</span> / 2025</li>
-                {showAi() && (<Recent obj={recentapi.ai}/>)}
+                <li id="av8" class={styles.proyecto} onclick={open_av8}>AV8 <span class={styles.type}>Arte Digital</span> / 2025 - 2026</li>
+                {showAV8() && (<Recent obj={recentapi.av8}/>)}
 
                 <li id="zhizhwa" class={styles.proyecto} onclick={open_Zhizhwa}>Zhizhwa <span class={styles.type}>net art</span> / 2025</li>
                 {showZhizwha() && (<Recent obj={recentapi.zhizhwa}/>)}
-
-                <li id="astronativo" class={styles.proyecto} onclick={open_Astronativo}>Astronativo <span class={styles.type}>AV Performance</span> / 2024 - 2025</li>
-                {showAstronativo() && (<Recent obj={recentapi.astronativo}/>)}
             </ul>
         </div>
 

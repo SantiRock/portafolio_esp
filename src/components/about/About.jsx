@@ -28,8 +28,8 @@ export function About () {
           {copied}
         </span>
       </div>
-      <p class={styles.msn1}>Los proyectos estan divididos por secciones, solo debes dar click en la sección y luego en el nombre del proyecto para desplegarlo. Lo puedes cerrar de la misma forma.</p>
-      <p class={styles.msn}>Actualizado Diciembre 2025</p>
+      <p class={styles.msn1}>Los proyectos estan divididos por secciones, solo debes dar click en la sección y luego en el nombre del proyecto para desplegarlo.<br/> Lo puedes cerrar de la misma forma.</p>
+      <p class={styles.msn}>Actualizado Octubre 2026</p>
 
     </header>
     );

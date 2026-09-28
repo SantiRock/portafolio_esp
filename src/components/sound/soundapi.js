@@ -4,7 +4,7 @@ export const soundapi = {
         title: "Pipoca",
         fecha: "2026",
         lugar: "Digital, Cali",
-        concepto: "Proyecto musical que incorpora inteligencia artificial dentro de un proceso creativo guiado por una búsqueda artística sonora y visual. El proyecto se encuentra actualmente en etapa de desarrollo, previa a su lanzamiento oficial, con planes de publicar EPs y singles a partir de principios de 2026 en plataformas digitales. No se adscribe a un género específico, sino que explora fusiones sonoras abiertas. La idea es compartir el material, observar la respuesta del público y del entorno musical, y permitir que el proyecto se defina y crezca de forma orgánica.",
+        concepto: "Pipoca es un proyecto musical que utiliza procesos de inteligencia artificial como herramienta de exploración y creación, no como un fin, sino como un medio. El diexismo como principal referencia y fuente de inspiración. La radio y la exploración constante de lo que ocurre en sus márgenes han sido siempre una forma de descubrir, navegar y dejarse sorprender.",
         sound: "",
         enlaces: [
             {
@@ -27,11 +27,6 @@ export const soundapi = {
                 enlace: "https://www.youtube.com/@pipocatunes",
                 text: "Youtube Channel"
             },
-            {
-                id: "ppcsndc",
-                enlace: "https://soundcloud.com/pipocamusic",
-                text: "Soundcloud"
-            }
         ]
     },
     

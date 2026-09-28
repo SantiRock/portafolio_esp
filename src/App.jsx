@@ -58,9 +58,6 @@ function App() {
         <h3 id="video" onclick={open_Video}>Video Performance <span class={styles.cant}>({vc})</span></h3>
         {showVideo() && (<Video />)}
 
-        <h3 id="movies" onclick={open_Movies}>Filmografía <span class={styles.cant}>({mc})</span></h3>
-        {showMovies() && (<Movies />)}
-
         <h3 id="sound" onclick={open_Sound}>Sonido <span class={styles.cant}>({sc})</span></h3>
         {showSound() && (<Sound />)}
 
@@ -69,6 +66,9 @@ function App() {
 
         <h3 id="spaces" onclick={open_Espacios}>Espacios & Asociaciones <span class={styles.cant}>({ec})</span></h3>
         {showEspacios() && (<Espacios />)}
+
+        <h3 id="movies" onclick={open_Movies}>Filmografía <span class={styles.cant}>({mc})</span></h3>
+        {showMovies() && (<Movies />)}
 
          <h3 id="prod" onclick={open_Prod}>Producción de eventos <span class={styles.cant}>({pc})</span></h3>
         {showProd() && (<Prod />)}
