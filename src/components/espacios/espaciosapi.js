@@ -83,7 +83,7 @@ export const spacesapi = {
             {
                 id: 3,
                 srcset: '',
-                src: '/portafolio_esp/portafolio_esp/images/spaces/leproyectarium/lp3@2x.jpg',
+                src: '/portafolio_esp/images/spaces/leproyectarium/lp3@2x.jpg',
                 image: '/portafolio_esp/images/spaces/leproyectarium/lp3.jpg',
                 alt: 'Le Proyectarium',
                 credit: ''
@@ -291,16 +291,16 @@ export const spacesapi = {
             {
                 id: 1,
                 srcset: '',
-                src: '/images/spaces/cumbiahouse/ch1@2x.jpg',
-                image: '/images/spaces/cumbiahouse/ch1.jpg',
+                src: '/portafolio_esp/images/spaces/cumbiahouse/ch1@2x.jpg',
+                image: '/portafolio_esp/images/spaces/cumbiahouse/ch1.jpg',
                 alt: 'Gaira Cafe',
                 credit: ''
             },
             {
                 id: 2,
                 srcset: '',
-                src: '/images/spaces/cumbiahouse/ch2@2x.jpg',
-                image: '/images/spaces/cumbiahouse/ch2.jpg',
+                src: '/portafolio_esp/images/spaces/cumbiahouse/ch2@2x.jpg',
+                image: '/portafolio_esp/images/spaces/cumbiahouse/ch2.jpg',
                 alt: 'Gaira Cafe',
                 credit: ''
             },
@@ -492,8 +492,8 @@ export const spacesapi = {
             {
                 id: 1,
                 srcset: '',
-                src: '/images/spaces/quince16/qd1@2x.jpg',
-                image: '/images/spaces/quince16/qd1.jpg',
+                src: '/portafolio_esp/images/spaces/quince16/qd1@2x.jpg',
+                image: '/portafolio_esp/images/spaces/quince16/qd1.jpg',
                 alt: 'Quince16',
                 credit: 'Siu'
             },

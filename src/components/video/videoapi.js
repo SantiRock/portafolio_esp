@@ -154,8 +154,8 @@ export const videosApi = {
       {
         id: 6,
         srcset: "",
-        src: "/images/video/sucursalfest/sf6@2x.jpg",
-        image: "/images/video/sucursalfest/sf6.jpg",
+        src: "/portafolio_esp/images/video/sucursalfest/sf6@2x.jpg",
+        image: "/portafolio_esp/images/video/sucursalfest/sf6.jpg",
         alt: "sf6",
         credit: "",
       },
@@ -1279,8 +1279,8 @@ export const videosApi = {
       {
         id: 1,
         srcset: "",
-        src: "/images/video/caliwoodrmx/cw1@2x.jpg",
-        image: "/images/video/caliwoodrmx/cw1.jpg",
+        src: "/portafolio_esp/images/video/caliwoodrmx/cw1@2x.jpg",
+        image: "/portafolio_esp/images/video/caliwoodrmx/cw1.jpg",
         alt: "visuals",
         credit: "",
       },
