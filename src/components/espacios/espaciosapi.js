@@ -26,24 +26,24 @@ export const spacesapi = {
             {
                 id: 1,
                 srcset: '',
-                src: '/images/spaces/myrys/mm1@2x.jpg',
-                image: '/images/spaces/myrys/mm1.jpg',
+                src: '/portafolio_esp/images/spaces/myrys/mm1@2x.jpg',
+                image: '/portafolio_esp/images/spaces/myrys/mm1.jpg',
                 alt: 'THSF',
                 credit: ''
             },
             {
                 id: 2,
                 srcset: '',
-                src: '/images/spaces/myrys/mm2@2x.jpg',
-                image: '/images/spaces/myrys/mm2.jpg',
+                src: '/portafolio_esp/images/spaces/myrys/mm2@2x.jpg',
+                image: '/portafolio_esp/images/spaces/myrys/mm2.jpg',
                 alt: 'THSF',
                 credit: ''
             },
             {
                 id: 3,
                 srcset: '',
-                src: '/images/spaces/myrys/mm3@2x.jpg',
-                image: '/images/spaces/myrys/mm3.jpg',
+                src: '/portafolio_esp/images/spaces/myrys/mm3@2x.jpg',
+                image: '/portafolio_esp/images/spaces/myrys/mm3.jpg',
                 alt: 'Polare',
                 credit: ''
             }
@@ -67,88 +67,88 @@ export const spacesapi = {
             {
                 id: 1,
                 srcset: '',
-                src: '/images/spaces/leproyectarium/lp1@2x.jpg',
-                image: '/images/spaces/leproyectarium/lp1.jpg',
+                src: '/portafolio_esp/images/spaces/leproyectarium/lp1@2x.jpg',
+                image: '/portafolio_esp/images/spaces/leproyectarium/lp1.jpg',
                 alt: 'TouchViZ',
                 credit: ''
             },
             {
                 id: 2,
                 srcset: '',
-                src: '/images/spaces/leproyectarium/lp2@2x.jpg',
-                image: '/images/spaces/leproyectarium/lp2.jpg',
+                src: '/portafolio_esp/images/spaces/leproyectarium/lp2@2x.jpg',
+                image: '/portafolio_esp/images/spaces/leproyectarium/lp2.jpg',
                 alt: 'Montaje',
                 credit: ''
             },
             {
                 id: 3,
                 srcset: '',
-                src: '/images/spaces/leproyectarium/lp3@2x.jpg',
-                image: '/images/spaces/leproyectarium/lp3.jpg',
+                src: '/portafolio_esp/portafolio_esp/images/spaces/leproyectarium/lp3@2x.jpg',
+                image: '/portafolio_esp/images/spaces/leproyectarium/lp3.jpg',
                 alt: 'Le Proyectarium',
                 credit: ''
             },
             {
                 id: 4,
                 srcset: '',
-                src: '/images/spaces/leproyectarium/lp4@2x.jpg',
-                image: '/images/spaces/leproyectarium/lp4.jpg',
+                src: '/portafolio_esp/images/spaces/leproyectarium/lp4@2x.jpg',
+                image: '/portafolio_esp/images/spaces/leproyectarium/lp4.jpg',
                 alt: 'Luces LED',
                 credit: ''
             },
             {
                 id: 5,
                 srcset: '',
-                src: '/images/spaces/leproyectarium/lp5@2x.jpg',
-                image: '/images/spaces/leproyectarium/lp5.jpg',
+                src: '/portafolio_esp/images/spaces/leproyectarium/lp5@2x.jpg',
+                image: '/portafolio_esp/images/spaces/leproyectarium/lp5.jpg',
                 alt: 'Midi',
                 credit: ''
             },
             {
                 id: 6,
                 srcset: '',
-                src: '/images/spaces/leproyectarium/lp6@2x.jpg',
-                image: '/images/spaces/leproyectarium/lp6.jpg',
+                src: '/portafolio_esp/images/spaces/leproyectarium/lp6@2x.jpg',
+                image: '/portafolio_esp/images/spaces/leproyectarium/lp6.jpg',
                 alt: 'Arduino LED control',
                 credit: ''
             },
             {
                 id: 7,
                 srcset: '',
-                src: '/images/spaces/leproyectarium/lp7@2x.jpg',
-                image: '/images/spaces/leproyectarium/lp7.jpg',
+                src: '/portafolio_esp/images/spaces/leproyectarium/lp7@2x.jpg',
+                image: '/portafolio_esp/images/spaces/leproyectarium/lp7.jpg',
                 alt: 'arduino',
                 credit: ''
             },
             {
                 id: 8,
                 srcset: '',
-                src: '/images/spaces/leproyectarium/lp8@2x.jpg',
-                image: '/images/spaces/leproyectarium/lp8.jpg',
+                src: '/portafolio_esp/images/spaces/leproyectarium/lp8@2x.jpg',
+                image: '/portafolio_esp/images/spaces/leproyectarium/lp8.jpg',
                 alt: 'probando prpyectores',
                 credit: ''
             },
             {
                 id: 9,
                 srcset: '',
-                src: '/images/spaces/leproyectarium/lp9@2x.jpg',
-                image: '/images/spaces/leproyectarium/lp9.jpg',
+                src: '/portafolio_esp/images/spaces/leproyectarium/lp9@2x.jpg',
+                image: '/portafolio_esp/images/spaces/leproyectarium/lp9.jpg',
                 alt: 'dmx',
                 credit: ''
             },
             {
                 id: 10,
                 srcset: '',
-                src: '/images/spaces/leproyectarium/lp10@2x.jpg',
-                image: '/images/spaces/leproyectarium/lp10.jpg',
+                src: '/portafolio_esp/images/spaces/leproyectarium/lp10@2x.jpg',
+                image: '/portafolio_esp/images/spaces/leproyectarium/lp10.jpg',
                 alt: 'obra leds Polare',
                 credit: ''
             },
             {
                 id: 11,
                 srcset: '',
-                src: '/images/spaces/leproyectarium/lp11@2x.jpg',
-                image: '/images/spaces/leproyectarium/lp11.jpg',
+                src: '/portafolio_esp/images/spaces/leproyectarium/lp11@2x.jpg',
+                image: '/portafolio_esp/images/spaces/leproyectarium/lp11.jpg',
                 alt: 'Nixie',
                 credit: ''
             }
@@ -177,48 +177,48 @@ export const spacesapi = {
             {
                 id: 1,
                 srcset: '',
-                src: '/images/spaces/spektrum/s1@2x.jpg',
-                image: '/images/spaces/spektrum/s1.jpg',
+                src: '/portafolio_esp/images/spaces/spektrum/s1@2x.jpg',
+                image: '/portafolio_esp/images/spaces/spektrum/s1.jpg',
                 alt: 'Spektrum',
                 credit: ''
             },
             {
                 id: 2,
                 srcset: '',
-                src: '/images/spaces/spektrum/s2@2x.jpg',
-                image: '/images/spaces/spektrum/s2.jpg',
+                src: '/portafolio_esp/images/spaces/spektrum/s2@2x.jpg',
+                image: '/portafolio_esp/images/spaces/spektrum/s2.jpg',
                 alt: 'AV Performance',
                 credit: ''
             },
             {
                 id: 3,
                 srcset: '',
-                src: '/images/spaces/spektrum/s3@2x.jpg',
-                image: '/images/spaces/spektrum/s3.jpg',
+                src: '/portafolio_esp/images/spaces/spektrum/s3@2x.jpg',
+                image: '/portafolio_esp/images/spaces/spektrum/s3.jpg',
                 alt: 'AV Performance',
                 credit: ''
             },
             {
                 id: 4,
                 srcset: '',
-                src: '/images/spaces/spektrum/s4@2x.jpg',
-                image: '/images/spaces/spektrum/s4.jpg',
+                src: '/portafolio_esp/images/spaces/spektrum/s4@2x.jpg',
+                image: '/portafolio_esp/images/spaces/spektrum/s4.jpg',
                 alt: 'AV Performance',
                 credit: ''
             },
             {
                 id: 5,
                 srcset: '',
-                src: '/images/spaces/spektrum/s5@2x.jpg',
-                image: '/images/spaces/spektrum/s5.jpg',
+                src: '/portafolio_esp/images/spaces/spektrum/s5@2x.jpg',
+                image: '/portafolio_esp/images/spaces/spektrum/s5.jpg',
                 alt: 'Sound Instalation',
                 credit: ''
             },
             {
                 id: 6,
                 srcset: '',
-                src: '/images/spaces/spektrum/s6@2x.jpg',
-                image: '/images/spaces/spektrum/s6.jpg',
+                src: '/portafolio_esp/images/spaces/spektrum/s6@2x.jpg',
+                image: '/portafolio_esp/images/spaces/spektrum/s6.jpg',
                 alt: 'Synths',
                 credit: ''
             },
@@ -252,16 +252,16 @@ export const spacesapi = {
             {
                 id: 1,
                 srcset: '',
-                src: '/images/spaces/guayavocolective/gcc1@2x.jpg',
-                image: '/images/spaces/guayavocolective/gc1.jpg',
+                src: '/portafolio_esp/images/spaces/guayavocolective/gcc1@2x.jpg',
+                image: '/portafolio_esp/images/spaces/guayavocolective/gc1.jpg',
                 alt: 'Latino Graff',
                 credit: ''
             },
             {
                 id: 2,
                 srcset: '',
-                src: '/images/spaces/guayavocolective/gcc2@2x.jpg',
-                image: '/images/spaces/guayavocolective/gc2.jpg',
+                src: '/portafolio_esp/images/spaces/guayavocolective/gcc2@2x.jpg',
+                image: '/portafolio_esp/images/spaces/guayavocolective/gc2.jpg',
                 alt: 'Disparates',
                 credit: ''
             },
@@ -307,80 +307,80 @@ export const spacesapi = {
             {
                 id: 3,
                 srcset: '',
-                src: '/images/spaces/cumbiahouse/ch3@2x.jpg',
-                image: '/images/spaces/cumbiahouse/ch3.jpg',
+                src: '/portafolio_esp/images/spaces/cumbiahouse/ch3@2x.jpg',
+                image: '/portafolio_esp/images/spaces/cumbiahouse/ch3.jpg',
                 alt: 'Gaira Cafe',
                 credit: ''
             },
             {
                 id: 4,
                 srcset: '',
-                src: '/images/spaces/cumbiahouse/ch4@2x.jpg',
-                image: '/images/spaces/cumbiahouse/ch4.jpg',
+                src: '/portafolio_esp/images/spaces/cumbiahouse/ch4@2x.jpg',
+                image: '/portafolio_esp/images/spaces/cumbiahouse/ch4.jpg',
                 alt: 'Gaira Cafe',
                 credit: ''
             },
             {
                 id: 5,
                 srcset: '',
-                src: '/images/spaces/cumbiahouse/ch5@2x.jpg',
-                image: '/images/spaces/cumbiahouse/ch5.jpg',
+                src: '/portafolio_esp/images/spaces/cumbiahouse/ch5@2x.jpg',
+                image: '/portafolio_esp/images/spaces/cumbiahouse/ch5.jpg',
                 alt: 'Gaira Cafe',
                 credit: ''
             },
             {
                 id: 6,
                 srcset: '',
-                src: '/images/spaces/cumbiahouse/ch6@2x.jpg',
-                image: '/images/spaces/cumbiahouse/ch6.jpg',
+                src: '/portafolio_esp/images/spaces/cumbiahouse/ch6@2x.jpg',
+                image: '/portafolio_esp/images/spaces/cumbiahouse/ch6.jpg',
                 alt: 'Gaira Cafe',
                 credit: ''
             },
             {
                 id: 7,
                 srcset: '',
-                src: '/images/spaces/cumbiahouse/ch7@2x.jpg',
-                image: '/images/spaces/cumbiahouse/ch7.jpg',
+                src: '/portafolio_esp/images/spaces/cumbiahouse/ch7@2x.jpg',
+                image: '/portafolio_esp/images/spaces/cumbiahouse/ch7.jpg',
                 alt: 'Gaira Cafe',
                 credit: ''
             },
             {
                 id: 8,
                 srcset: '',
-                src: '/images/spaces/cumbiahouse/ch8@2x.jpg',
-                image: '/images/spaces/cumbiahouse/ch8.jpg',
+                src: '/portafolio_esp/images/spaces/cumbiahouse/ch8@2x.jpg',
+                image: '/portafolio_esp/images/spaces/cumbiahouse/ch8.jpg',
                 alt: 'Gaira Cafe',
                 credit: ''
             },
             {
                 id: 9,
                 srcset: '',
-                src: '/images/spaces/cumbiahouse/ch9@2x.jpg',
-                image: '/images/spaces/cumbiahouse/ch9.jpg',
+                src: '/portafolio_esp/images/spaces/cumbiahouse/ch9@2x.jpg',
+                image: '/portafolio_esp/images/spaces/cumbiahouse/ch9.jpg',
                 alt: 'Gaira Cafe',
                 credit: ''
             },
             {
                 id: 10,
                 srcset: '',
-                src: '/images/spaces/cumbiahouse/ch10@2x.jpg',
-                image: '/images/spaces/cumbiahouse/ch10.jpg',
+                src: '/portafolio_esp/images/spaces/cumbiahouse/ch10@2x.jpg',
+                image: '/portafolio_esp/images/spaces/cumbiahouse/ch10.jpg',
                 alt: 'Gaira Cafe',
                 credit: ''
             },
             {
                 id: 11,
                 srcset: '',
-                src: '/images/spaces/cumbiahouse/ch11@2x.jpg',
-                image: '/images/spaces/cumbiahouse/ch11.jpg',
+                src: '/portafolio_esp/images/spaces/cumbiahouse/ch11@2x.jpg',
+                image: '/portafolio_esp/images/spaces/cumbiahouse/ch11.jpg',
                 alt: 'Gaira Cafe',
                 credit: ''
             },
             {
                 id: 12,
                 srcset: '',
-                src: '/images/spaces/cumbiahouse/ch12@2x.jpg',
-                image: '/images/spaces/cumbiahouse/ch12.jpg',
+                src: '/portafolio_esp/images/spaces/cumbiahouse/ch12@2x.jpg',
+                image: '/portafolio_esp/images/spaces/cumbiahouse/ch12.jpg',
                 alt: 'Gaira Cafe',
                 credit: ''
             },
@@ -419,56 +419,56 @@ export const spacesapi = {
             {
                 id: 1,
                 srcset: '',
-                src: '/images/spaces/larddx/lrddx1@2x.jpg',
-                image: '/images/spaces/larddx/lrddx1.jpg',
+                src: '/portafolio_esp/images/spaces/larddx/lrddx1@2x.jpg',
+                image: '/portafolio_esp/images/spaces/larddx/lrddx1.jpg',
                 alt: 'La Redada',
                 credit: ''
             },
             {
                 id: 2,
                 srcset: '',
-                src: '/images/spaces/larddx/lrddx2@2x.jpg',
-                image: '/images/spaces/larddx/lrddx2.jpg',
+                src: '/portafolio_esp/images/spaces/larddx/lrddx2@2x.jpg',
+                image: '/portafolio_esp/images/spaces/larddx/lrddx2.jpg',
                 alt: 'Anarquia',
                 credit: ''
             },
             {
                 id: 3,
                 srcset: '',
-                src: '/images/spaces/larddx/lrddx3@2x.jpg',
-                image: '/images/spaces/larddx/lrddx3.jpg',
+                src: '/portafolio_esp/images/spaces/larddx/lrddx3@2x.jpg',
+                image: '/portafolio_esp/images/spaces/larddx/lrddx3.jpg',
                 alt: 'Taller de circuit bending',
                 credit: ''
             },
             {
                 id: 4,
                 srcset: '',
-                src: '/images/spaces/larddx/lrddx4@2x.jpg',
-                image: '/images/spaces/larddx/lrddx4.jpg',
+                src: '/portafolio_esp/images/spaces/larddx/lrddx4@2x.jpg',
+                image: '/portafolio_esp/images/spaces/larddx/lrddx4.jpg',
                 alt: 'Feria',
                 credit: ''
             },
             {
                 id: 5,
                 srcset: '',
-                src: '/images/spaces/larddx/lrddx5@2x.jpg',
-                image: '/images/spaces/larddx/lrddx5.jpg',
+                src: '/portafolio_esp/images/spaces/larddx/lrddx5@2x.jpg',
+                image: '/portafolio_esp/images/spaces/larddx/lrddx5.jpg',
                 alt: 'La Redada',
                 credit: ''
             },
             {
                 id: 6,
                 srcset: '',
-                src: '/images/spaces/larddx/lrddx6@2x.jpg',
-                image: '/images/spaces/larddx/lrddx6.jpg',
+                src: '/portafolio_esp/images/spaces/larddx/lrddx6@2x.jpg',
+                image: '/portafolio_esp/images/spaces/larddx/lrddx6.jpg',
                 alt: 'Taller de siembra',
                 credit: ''
             },
             {
                 id: 7,
                 srcset: '',
-                src: '/images/spaces/larddx/lrddx7@2x.jpg',
-                image: '/images/spaces/larddx/lrddx7.jpg',
+                src: '/portafolio_esp/images/spaces/larddx/lrddx7@2x.jpg',
+                image: '/portafolio_esp/images/spaces/larddx/lrddx7.jpg',
                 alt: 'Velitas con los vecinos',
                 credit: ''
             },
@@ -500,56 +500,56 @@ export const spacesapi = {
             {
                 id: 2,
                 srcset: '',
-                src: '/images/spaces/quince16/qd2@2x.jpg',
-                image: '/images/spaces/quince16/qd2.jpg',
+                src: '/portafolio_esp/images/spaces/quince16/qd2@2x.jpg',
+                image: '/portafolio_esp/images/spaces/quince16/qd2.jpg',
                 alt: 'Casa Quince16',
                 credit: ''
             },
             {
                 id: 3,
                 srcset: '',
-                src: '/images/spaces/quince16/qd3@2x.jpg',
-                image: '/images/spaces/quince16/qd3.jpg',
+                src: '/portafolio_esp/images/spaces/quince16/qd3@2x.jpg',
+                image: '/portafolio_esp/images/spaces/quince16/qd3.jpg',
                 alt: 'Quince16',
                 credit: ''
             },
             {
                 id: 4,
                 srcset: '',
-                src: '/images/spaces/quince16/qd4@2x.jpg',
-                image: '/images/spaces/quince16/qd4.jpg',
+                src: '/portafolio_esp/images/spaces/quince16/qd4@2x.jpg',
+                image: '/portafolio_esp/images/spaces/quince16/qd4.jpg',
                 alt: 'Quince16',
                 credit: ''
             },
             {
                 id: 5,
                 srcset: '',
-                src: '/images/spaces/quince16/qd5@2x.jpg',
-                image: '/images/spaces/quince16/qd5.jpg',
+                src: '/portafolio_esp/images/spaces/quince16/qd5@2x.jpg',
+                image: '/portafolio_esp/images/spaces/quince16/qd5.jpg',
                 alt: 'Quince16',
                 credit: ''
             },
             {
                 id: 6,
                 srcset: '',
-                src: '/images/spaces/quince16/qd6@2x.jpg',
-                image: '/images/spaces/quince16/qd6.jpg',
+                src: '/portafolio_esp/images/spaces/quince16/qd6@2x.jpg',
+                image: '/portafolio_esp/images/spaces/quince16/qd6.jpg',
                 alt: 'Quince16',
                 credit: ''
             },
             {
                 id: 7,
                 srcset: '',
-                src: '/images/spaces/quince16/qd7@2x.jpg',
-                image: '/images/spaces/quince16/qd7.jpg',
+                src: '/portafolio_esp/images/spaces/quince16/qd7@2x.jpg',
+                image: '/portafolio_esp/images/spaces/quince16/qd7.jpg',
                 alt: 'Quince16',
                 credit: ''
             },
             {
                 id: 8,
                 srcset: '',
-                src: '/images/spaces/quince16/qd8@2x.jpg',
-                image: '/images/spaces/quince16/qd8.jpg',
+                src: '/portafolio_esp/images/spaces/quince16/qd8@2x.jpg',
+                image: '/portafolio_esp/images/spaces/quince16/qd8.jpg',
                 alt: 'Quince16',
                 credit: ''
             },
