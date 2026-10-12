@@ -9,6 +9,7 @@ import { Sound, sc } from './components/sound/Sound';
 import { Web, wc } from './components/code/Web';
 import { Espacios, ec } from './components/espacios/Espacios';
 import { Footer } from './components/footer/Footer';
+import ShaderBackground from "./components/shaderbackground/ShaderBackground";
 
 function App() {
   const [showProd, setShowProd] = createSignal(false);
@@ -48,6 +49,8 @@ function App() {
   }
 
   return (
+  <>
+    <ShaderBackground />
     <div class={styles.container}>
       <About />
       <main>
@@ -76,6 +79,7 @@ function App() {
       </main>
       <Footer />
     </div>
+    </>
   );
 }
 
